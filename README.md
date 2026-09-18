@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Krishna
-<img src="github loop.gif" alt="Description" style="float: right; margin-left: 15px;">
+
 ### `Programmer • Web Developer • Problem Solver`
 
 <p>

@@ -46,7 +46,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/krishna-sahani">
+  <a href="https://www.linkedin.com/in/krishna-sahani-b44757424/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:krixhnaagain@gmail.com">

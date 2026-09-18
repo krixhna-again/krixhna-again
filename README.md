@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-loop.gif" width="220" alt="Cozy pixel art animation">
+<img src="./assets/github-loop.gif" width="500" alt="Cozy pixel art animation">
 
 <br>
 

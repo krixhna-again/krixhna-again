@@ -18,9 +18,10 @@
   <a href="https://www.geeksforgeeks.org/profile/krishna"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
+<img src="./assets/github-loop.gif" width="350" alt="Cozy pixel art animation">
+
 </div>
 
-<img src="./assets/github-loop.gif" width="350" alt="Cozy pixel art animation">
 
 ---
 

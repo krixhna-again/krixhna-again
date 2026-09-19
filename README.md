@@ -6,11 +6,6 @@
 
 <br>
 
-<img src="./assets/github-loop.gif" width="350" alt="Cozy pixel art animation">
-
-<br>
-
-
 <p>
   <samp>building • learning • debugging • repeating 👾</samp>
 </p>
@@ -24,6 +19,8 @@
 </p>
 
 </div>
+
+<img src="./assets/github-loop.gif" width="350" alt="Cozy pixel art animation">
 
 ---
 

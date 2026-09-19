@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./assets/github-loop.gif" width="3500" alt="Cozy pixel art animation">
+<img src="./assets/github-loop.gif" width="350" alt="Cozy pixel art animation">
 
 <br>
 
@@ -178,7 +178,7 @@ I started with a strong interest in **frontend development** and I'm gradually g
 
 ## ☕ A little corner of the internet
 
-<img src="./assets/cozy-ending.jpg" height="400" alt="Cozy pixel art landscape">
+<img src="./assets/cozy-ending.jpg" height="350" alt="Cozy pixel art landscape">
 
 <br><br>
 

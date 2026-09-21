@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=34&duration=2600&pause=900&color=87CEEB&center=true&vCenter=true&width=820&height=70&lines=I%27m+Krishna;I%27m+a+Programmer;I%27m+a+Backend+Developer;I%27m+building+things+on+the+web&repeat=true" alt="Typing SVG">
 </a>
@@ -22,20 +22,16 @@
 
 </div>
 
-
----
-
 <table>
 <tr>
 <td width="68%" valign="top">
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
-I'm **Krishna**, a final-year BCA student who enjoys turning ideas into things people can actually use.
+I'm Krishna, a final-year BCA student who enjoys turning ideas into things people can actually use.
 
-I started with a strong interest in **frontend development** and I'm gradually going deeper into **backend and full-stack development**. Along the way, I'm also sharpening my problem-solving skills with **DSA**.
+I started with a strong interest in frontend development and I'm gradually going deeper into backend and full-stack development. Along the way, I'm also sharpening my problem-solving skills with DSA.
 
-```text
 🎓 Final-year BCA student
 🌐 Web & Full-Stack Development
 ⚛️ React + JavaScript
@@ -43,7 +39,6 @@ I started with a strong interest in **frontend development** and I'm gradually g
 🍃 MongoDB
 🧩 DSA & problem solving
 🎨 UI-focused developer
-```
 
 </td>
 <td width="32%" align="right" valign="middle">
@@ -54,38 +49,34 @@ I started with a strong interest in **frontend development** and I'm gradually g
 </tr>
 </table>
 
----
-
-## ✦ What I'm Working On
+✦ What I'm Working On
 
 <table>
 <tr>
 <td width="50%">
 
-**Currently learning**
+Currently learning
 
-→ Backend development  
-→ Full-stack architecture  
-→ Better database design  
+→ Backend development
+→ Full-stack architecture
+→ Better database design
 → Writing cleaner JavaScript
 
 </td>
 <td width="50%">
 
-**Currently improving**
+Currently improving
 
-→ React & modern frontend patterns  
-→ DSA problem solving  
-→ UI/UX thinking  
+→ React & modern frontend patterns
+→ DSA problem solving
+→ UI/UX thinking
 → Building polished projects
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Languages & Tools
+🛠️ Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages">
@@ -103,42 +94,7 @@ I started with a strong interest in **frontend development** and I'm gradually g
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" alt="Development tools">
 </p>
 
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="./profile/stats.svg" alt="Krishna's GitHub statistics">
-
-</td>
-<td width="50%">
-
-<img src="./profile/top-languages.svg" alt="Krishna's top languages">
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Activity Overview
-
-<div align="center">
-
-<img src="./profile/activity-graph.svg" alt="Krishna's GitHub activity graph">
-
-</div>
-
----
-
-## 🧩 Problem Solving
+🧩 Problem Solving
 
 <div align="center">
 
@@ -152,9 +108,7 @@ I started with a strong interest in **frontend development** and I'm gradually g
 
 </div>
 
----
-
-## 🚀 Projects
+🚀 Projects
 
 <div align="center">
 
@@ -168,11 +122,9 @@ I started with a strong interest in **frontend development** and I'm gradually g
 
 </div>
 
----
-
 <div align="center">
 
-## ☕ A little corner of the internet
+☕ A little corner of the internet
 
 <img src="./assets/cozy-ending.jpg" height="350" alt="Cozy pixel art landscape">
 

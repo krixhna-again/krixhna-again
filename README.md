@@ -126,7 +126,7 @@ Currently improving
 
 ☕ A little corner of the internet
 
-<img src="./assets/cozy-ending.jpg" height="350" alt="Cozy pixel art landscape">
+<img src="./assets/cozy-ending.jpg" height="300" width="200" alt="Cozy pixel art landscape">
 
 <br><br>
 

@@ -18,7 +18,7 @@
   <a href="https://www.geeksforgeeks.org/profile/krishna"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
-<img src="./assets/github-loop.gif" width="150" alt="Cozy pixel art animation">
+<img src="./assets/github-loop.gif" height="190" width="500" alt="Cozy pixel art animation">
 
 </div>
 
@@ -126,7 +126,7 @@ Currently improving
 
 ☕ A little corner of the internet
 
-<img src="./assets/cozy-ending.jpg" height="300" width="200" alt="Cozy pixel art landscape">
+<img src="./assets/cozy-ending.jpg" height="500" width="500" alt="Cozy pixel art landscape">
 
 <br><br>
 
